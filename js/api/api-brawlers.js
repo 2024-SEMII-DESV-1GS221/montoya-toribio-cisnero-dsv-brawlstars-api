@@ -1,0 +1,1 @@
+const BRAWLERS_URL = 'https://api.brawlify.com/v1/brawlers';

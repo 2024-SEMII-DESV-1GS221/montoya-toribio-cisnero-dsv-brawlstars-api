@@ -1,0 +1,1 @@
+const RANKINGS_URL = 'http://137.184.118.50/v1/rankings'; //http://137.184.118.50/v1/rankings/{countryCode}/players

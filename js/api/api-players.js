@@ -1,0 +1,1 @@
+const PLAYERS_URL = 'http://137.184.118.50/v1/players'; //http://137.184.118.50/v1/players/%23{PLAYERTAG}

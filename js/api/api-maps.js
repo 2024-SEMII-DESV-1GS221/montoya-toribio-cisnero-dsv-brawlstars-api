@@ -1,0 +1,1 @@
+const MAPS_API = 'https://api.brawlify.com/v1/maps';
